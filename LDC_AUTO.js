@@ -1,6 +1,6 @@
 /*
 	LDC_AUTO.js Source Code
- 	Written by @SPFck
+ 	Written by @Lofimit
   
  	Made for https://longdogechallenge.com/
 */
